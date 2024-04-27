@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Users\renguangwen\source\repos\Project12\UnitTest1\UnitTest1.cpp(21,8): warning C4101: “a”: 未引用的局部变量
+C:\Users\renguangwen\source\repos\Project12\UnitTest1\UnitTest1.cpp(21,11): warning C4101: “b”: 未引用的局部变量
+    正在创建库 C:\Users\renguangwen\source\repos\Project12\Debug\UnitTest1.lib 和对象 C:\Users\renguangwen\source\repos\Project12\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\renguangwen\source\repos\Project12\Debug\UnitTest1.dll
